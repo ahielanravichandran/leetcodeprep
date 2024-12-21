@@ -1,0 +1,9 @@
+.app {
+  padding: 20px;
+}
+
+.bg-gray {
+  background-color: lightgray;
+  padding: 12px;
+  border-radius: 6px;
+}
